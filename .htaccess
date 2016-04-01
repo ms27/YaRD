@@ -1,0 +1,3 @@
+<FilesMatch ".(json)$">
+  Header unset Cache-Control
+</FilesMatch>
