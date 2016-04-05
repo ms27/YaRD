@@ -1,9 +1,6 @@
 {
   "output":
     {
-      "title":"200",
-      "subtitle":"Ура!!!",
-      "text":"Отметка в 200 пользователей достигнута.",
-      "subtext":"Если получится закрепить её так, что дальше число будет только расти, то это будет вообще здорово.<br>Спасибо каждому из вас!<br><a target='_blank' class='YaRD__news_button' href='https://chrome.google.com/webstore/detail/yandexradio-music-downloa/iipdlolanhldhhdjaiebciofkiejnold/support'>сообщить о проблеме &gt;</a><a target='_blank' class='YaRD__news_button' href='https://chrome.google.com/webstore/detail/yandexradio-music-downloa/iipdlolanhldhhdjaiebciofkiejnold/reviews'>оценить &gt;</a>"
+      "subtext":"<a target='_blank' class='YaRD__news_button' href='https://chrome.google.com/webstore/detail/yandexradio-music-downloa/iipdlolanhldhhdjaiebciofkiejnold/support'>сообщить о проблеме &gt;</a><a target='_blank' class='YaRD__news_button' href='https://chrome.google.com/webstore/detail/yandexradio-music-downloa/iipdlolanhldhhdjaiebciofkiejnold/reviews'>оценить &gt;</a>"
     }
 }
