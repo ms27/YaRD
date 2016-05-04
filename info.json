@@ -1,6 +1,7 @@
 {
   "output":
     {
-      "subtext":"Увидел сообщение, что на Яндекс.Музыке нет возможности скачать трек. Проверил, это действительно так. В ближайшем обновлении это будет исправлено. Спасибо пользователю, сообщившему о данной проблеме.<br><span style=''><a target='_blank' class='YaRD__news_button' href='https://chrome.google.com/webstore/detail/yandexradio-music-downloa/iipdlolanhldhhdjaiebciofkiejnold/support'>сообщить о проблеме &gt;</a><a target='_blank' class='YaRD__news_button' href='https://chrome.google.com/webstore/detail/yandexradio-music-downloa/iipdlolanhldhhdjaiebciofkiejnold/reviews'>оценить &gt;</a></span>"
+      "title":"Доступна версия 2.0.6",
+      "subtext":"Исправлена ошибка скачивания песни с Яндекс.Музыки.<br>Добавлен новый раздел (найти его можно будет в левом верхнем углу навигации блока расширения)<br><span style=''><a target='_blank' class='YaRD__news_button' href='https://chrome.google.com/webstore/detail/yandexradio-music-downloa/iipdlolanhldhhdjaiebciofkiejnold/support'>сообщить о проблеме &gt;</a><a target='_blank' class='YaRD__news_button' href='https://chrome.google.com/webstore/detail/yandexradio-music-downloa/iipdlolanhldhhdjaiebciofkiejnold/reviews'>оценить &gt;</a></span>"
     }
 }
