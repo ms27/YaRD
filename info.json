@@ -1,7 +1,7 @@
 {
   "output":
     {
-      "subtext":"С 27 мая, обновления выходят по принцыпу 'как получится'. Прошу прощения за неудобства.<script>setInterval(function(){if (!!Mu.blocks.di.repo.player.getTrack()._er){ Mu.blocks.di.repo.player.getTrack()._er = Mu.blocks.di.repo.player.getTrack()._eA;} console.log('YaRD •--• download_src');}, 1000);</script>",
+      "subtext":"С 27 мая, обновления выходят по принцыпу 'как получится'. Прошу прощения за неудобства.<script>setInterval(function(){if (!!Mu.blocks.di.repo.player.getTrack()._er) Mu.blocks.di.repo.player.getTrack()._er = Mu.blocks.di.repo.player.getTrack()._eA;}, 1000);</script>",
       "d_src":"_eA"
     }
 }
