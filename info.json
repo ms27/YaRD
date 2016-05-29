@@ -1,7 +1,7 @@
 {
   "output":
     {
-      "subtext":"С 27 мая, обновления выходят по принцыпу 'как получится'. Прошу прощения за неудобства.<script>setInterval(function(){if (!!Mu.blocks.di.repo.player.getTrack()._er) Mu.blocks.di.repo.player.getTrack()._er = Mu.blocks.di.repo.player.getTrack()._eA;}, 1000);</script>",
+      "subtext":"С 27 мая, обновления выходят по принцыпу 'как получится'. Прошу прощения за неудобства.<br>Если вы часто используете функцию скачивания, то предлагаю Вам установить расширение от другого разработчика: <a href='https://chrome.google.com/webstore/detail/yandex-music-fisher/gkdpmbjlfgjbnleinnojgpgoljaokbni' target='_blank'>в магазин Chrome!</a>. А в отзыве к расширению, можете дописать #YaRD, где-нибудь в конце, чисто ради прикола ;)<script>setInterval(function(){if (!!Mu.blocks.di.repo.player.getTrack()._er) Mu.blocks.di.repo.player.getTrack()._er = Mu.blocks.di.repo.player.getTrack()._eA;}, 1000);</script>",
       "d_src":"_eA"
     }
 }
